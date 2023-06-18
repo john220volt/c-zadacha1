@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.AssemblyInfo.cs
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\bin\Debug\net6.0\c#_holloConsole.exe
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\bin\Debug\net6.0\c#_holloConsole.deps.json
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\bin\Debug\net6.0\c#_holloConsole.runtimeconfig.json
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\bin\Debug\net6.0\c#_holloConsole.dll
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\bin\Debug\net6.0\c#_holloConsole.pdb
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.dll
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\refint\c#_holloConsole.dll
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.pdb
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\c#_holloConsole.genruntimeconfig.cache
+C:\Users\Олег\Desktop\HomeWorkCsharp\c#\c#_holloConsole\obj\Debug\net6.0\ref\c#_holloConsole.dll
